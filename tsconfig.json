@@ -17,7 +17,7 @@
   ],
   "include": [
     "src/**/*"
-, ".github/add", "add"  ],
+, ".github/add", "squareDigitsSequence", "add", "add"  ],
   "typeRoots": [
     "node_modules/@types"
   ]
